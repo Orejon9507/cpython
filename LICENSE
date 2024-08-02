@@ -1,4 +1,4 @@
-A. HISTORY OF THE SOFTWARE
+Licencia. HISTORIA DEL SOFTWARE.
 ==========================
 
 Python was created in the early 1990s by Guido van Rossum at Stichting
@@ -16,20 +16,20 @@ BeOpen.com to form the BeOpen PythonLabs team.  In October of the same
 year, the PythonLabs team moved to Digital Creations, which became
 Zope Corporation.  In 2001, the Python Software Foundation (PSF, see
 https://www.python.org/psf/) was formed, a non-profit organization
-created specifically to own Python-related Intellectual Property.
-Zope Corporation was a sponsoring member of the PSF.
+creado específicamente para poseer propiedad intelectual relacionada con Python.
+Zope Corporation fue miembro patrocinador de la PSF.
 
-All Python releases are Open Source (see https://opensource.org for
-the Open Source Definition).  Historically, most, but not all, Python
-releases have also been GPL-compatible; the table below summarizes
-the various releases.
+Todas las versiones de Python son de código abierto (ver https://opensource.org para
+Definición de código abierto). Históricamente, la mayoría, pero no todos, Python
+Las versiones también han sido compatibles con GPL; la siguiente tabla resume
+las diversas liberaciones.
 
-    Release         Derived     Year        Owner       GPL-
-                    from                                compatible? (1)
+ Lanzamiento Derived Year Owner GPL- 
+ de compatible? (1) 
 
     0.9.0 thru 1.2              1991-1995   CWI         yes
     1.3 thru 1.5.2  1.2         1995-1999   CNRI        yes
-    1.6             1.5.2       2000        CNRI        no
+        1.6             1.5.2       2000        CNRI        no    
     2.0             1.6         2000        BeOpen.com  no
     1.6.1           1.6         2001        CNRI        yes (2)
     2.1             2.0+1.6.1   2001        PSF         no
